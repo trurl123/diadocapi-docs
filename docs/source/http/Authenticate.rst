@@ -1,6 +1,8 @@
 Authenticate
 ============
 
+Аутентификация в системе
+
 .. contents::
    :local:
 

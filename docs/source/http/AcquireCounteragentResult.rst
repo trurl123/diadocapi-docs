@@ -1,12 +1,11 @@
 AcquireCounteragentResult
 =========================
 
-Метод *AcquireCounteragentResult* позволяет получить идентификатор приглашенной организации.
+Получить идентификатор приглашенной организации.
 
-HTTP
-----
+Имя ресурса: **/AcquireCounteragentResult**
 
-**POST /AcquireCounteragentResult**
+HTTP метод: **POST**
 
 **Параметры запроса:**
 
